@@ -3,7 +3,7 @@
 A new Flutter application.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DqIBspztElk/0.jpg)](https://www.youtube.com/watch?v=YDqIBspztElk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DqIBspztElk/0.jpg)](https://www.youtube.com/watch?v=DqIBspztElk)
 
 ## Getting Started
 
