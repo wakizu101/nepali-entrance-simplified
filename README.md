@@ -1,6 +1,6 @@
 # nesofficialapp
 
-A new Flutter application.
+A application for study.
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DqIBspztElk/0.jpg)](https://www.youtube.com/watch?v=DqIBspztElk)
